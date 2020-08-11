@@ -6,5 +6,8 @@ description: "A theme for one specific project based in Germany called Lehrbuch.
 permalink: /
 ---
 
-# Is this remote theme something I could use?
+# Theme for Lehrbuch Akademie für öffentliches Gesundheitswesen
+A theme for one specific project based in Germany called Lehrbuch. Build upon the the theme just-the-docs.
+
+## Is this remote theme something I could use?
 If you ask yourself that question probably not. If you would like a superb remote-theme see the [Webpage of just-the-docs](https://github.com/pmarsceill/just-the-docs) if you would like a good remote theme
