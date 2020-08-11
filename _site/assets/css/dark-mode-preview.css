@@ -5926,3 +5926,16 @@ figure.highlight {
   .py-xl-10 {
     padding-top: 4rem !important;
     padding-bottom: 4rem !important; } }
+.page-wrap {
+  border-top: 15px solid #3952a2; }
+
+a.navigation-list-link.active {
+  font-weight: 600;
+  color: #3952a2;
+  text-decoration: none; }
+
+summary {
+  color: #3952a2; }
+
+.page-content ul, .page-content ol {
+  padding-left: 2em; }
